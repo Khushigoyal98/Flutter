@@ -13,7 +13,7 @@ class LoginPage extends StatelessWidget {
           color:Colors.blue,
           fontWeight: FontWeight.bold,
         ),
-        //textScaleFactor:2.0 ,
+        //textScaleFactor:3.0 ,
         ),
       ),
     );
